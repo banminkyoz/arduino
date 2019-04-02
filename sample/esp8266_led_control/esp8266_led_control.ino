@@ -1,3 +1,5 @@
+// Example with NODEMCU ESP8266
+
 #include <ESP8266WiFi.h>
 #define LED D2  // LED at GPIO4 D2
 
